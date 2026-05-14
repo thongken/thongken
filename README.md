@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Thong, a developer from Viet Nam.
+I'm Thong
 
 ## About me
 
