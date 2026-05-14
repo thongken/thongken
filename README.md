@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**thongken/thongken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Thong, a developer from Viet Nam.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Student at HCMUT
+- 💻 Interested in Web Development, Backend, Databases, and Machine Learning
+- 🌱 Currently learning React, Node.js, MySQL, and AI/ML
+- 🚀 Building projects to improve my programming skills
+
+## Languages and Tools
+
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- Python
+- MySQL
+- Git
+- Docker
